@@ -41,7 +41,7 @@ The game does not store any data on the child, which keeps it compliant with GDP
 
 The software was built using a specification document Prd.md (see below)that was input into Claude Code, which then built a web-based App using HTML + CSS + JavaScript.
 
-
+Check out the live version at https://www.copingwithgrowing.com/play-starting-school.html
 
 ### Studio Boyd AI video work
 
