@@ -16,7 +16,7 @@ I show them where AI fits in their business, then I help them put it to work.
 
 | Skill | Evidence |
 | --- | --- |
-| Software development | 20 years as a developer between 1985 and 2007. Freelance for over a hundred companies in the 1990s, building e-learning on CD-ROM and websites with interactive media for museums, education and marketing. |
+| Software development | 22 years as a developer between 1985 and 2007. Freelance for over a hundred companies in the 1990s, building e-learning on CD-ROM and websites with interactive media for museums, education and marketing. |
 | Interactive learning systems | Early e-learning on Laservision video discs at Futuremedia, for clients such as Ford, John Wiley & Sons and Lloyds Bank. |
 | TypeScript, JavaScript, CSS | Both of my public repositories here are written in TypeScript. |
 | Python | My main stack for automation work. |
